@@ -6,6 +6,6 @@ while i < collection.length
     newArray.push(collection[i])
    i += 1
   end
-return 
+return newArray
 end
 
